@@ -46,7 +46,7 @@ function About() {
   };
 
   return (
-    <div className="about-container p-6 bg-gray-100 min-h-screen flex flex-col md:flex-row">
+    <div className="about-container p-6 bg-general min-h-screen flex flex-col md:flex-row">
       {/* About Section */}
       <div className="about-content flex-1 p-6">
         <h1 className="text-4xl font-semibold mb-6 text-center md:text-left">About Me</h1>

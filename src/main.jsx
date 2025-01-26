@@ -13,6 +13,7 @@ import { RatingsProvider } from './context/Ratings.jsx'
 import Anaylatics from './pages/Anaylatics.jsx'
 import Discussion from './pages/Anaylatics.jsx'
 import About from './pages/About.jsx'
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 createRoot(document.getElementById('root')).render(
   <RatingsProvider>

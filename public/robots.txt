@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elcastillodorado.vercel.app/sitemap.xml
